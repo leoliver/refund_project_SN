@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_refund</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 14:31:02</sys_created_on>
+        <sys_id>ce005954839312101ff9b8a6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refund View</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_update_name>sys_ui_view_ce005954839312101ff9b8a6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 14:31:02</sys_updated_on>
+        <title>Refund View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

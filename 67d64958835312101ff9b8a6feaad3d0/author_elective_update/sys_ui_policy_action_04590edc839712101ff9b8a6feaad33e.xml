@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>state</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:41:51</sys_created_on>
+        <sys_id>04590edc839712101ff9b8a6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_04590edc839712101ff9b8a6feaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:41:51</sys_updated_on>
+        <table>x_1593179_reembo_0_refund</table>
+        <ui_policy display_value="Fields to edit when Awaiting for Payment">ab294adc839712101ff9b8a6feaad358</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=04590edc839712101ff9b8a6feaad33e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</application>
+        <file_path/>
+        <instance_id>a410952d1b85c2147d9d2f8dee4bcbd8</instance_id>
+        <instance_name>dev245395</instance_name>
+        <name>sys_ui_policy_action_04590edc839712101ff9b8a6feaad33e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>false</disabled><field>state</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-20 18:41:51</sys_created_on><sys_id>04590edc839712101ff9b8a6feaad33e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package><sys_policy/><sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope><sys_update_name>sys_ui_policy_action_04590edc839712101ff9b8a6feaad33e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-20 18:41:51</sys_updated_on><table>x_1593179_reembo_0_refund</table><ui_policy display_value="Fields to edit when Awaiting for Payment">ab294adc839712101ff9b8a6feaad358</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=04590edc839712101ff9b8a6feaad33e"/></record_update>]]></payload>
+        <payload_hash>-2104615396</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>58a70998835312101ff9b8a6feaad3b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:41:51</sys_created_on>
+        <sys_id>8c798edc839712101ff9b8a6feaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948505667a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:41:51</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>00794adc139712101ddf96e8fb9d4582</update_guid>
+        <update_guid_history>00794adc139712101ddf96e8fb9d4582:-2104615396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:53:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>095fc6ca4bb3412090e8a829b15e2900</sys_id>
+        <sys_metadata>04590edc839712101ff9b8a6feaad33e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_scope_delete display_value="">1f291d9502f04a8db370818a530e4069</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_04590edc839712101ff9b8a6feaad33e</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_04590edc839712101ff9b8a6feaad33e">8c798edc839712101ff9b8a6feaad3da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

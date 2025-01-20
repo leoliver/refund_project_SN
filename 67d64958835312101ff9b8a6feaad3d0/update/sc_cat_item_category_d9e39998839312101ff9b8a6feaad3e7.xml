@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Refund">57a11dd4839312101ff9b8a6feaad35e</sc_cat_item>
+        <sc_category display_value="Refund">fc50dd54839312101ff9b8a6feaad3d4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 14:47:55</sys_created_on>
+        <sys_id>d9e39998839312101ff9b8a6feaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Refund.Request Refund</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_update_name>sc_cat_item_category_d9e39998839312101ff9b8a6feaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 14:47:55</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

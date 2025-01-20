@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow write for records in x_1593179_reembo_0_refund, for users with role x_1593179_reembo_0.hr_solver.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1593179_reembo_0_refund.*</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:51:53</sys_created_on>
+        <sys_id>cbbb069083d712101ff9b8a6feaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1593179_reembo_0_refund.*</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_update_name>sys_security_acl_cbbb069083d712101ff9b8a6feaad31d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:51:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</application>
+        <file_path/>
+        <instance_id>a410952d1b85c2147d9d2f8dee4bcbd8</instance_id>
+        <instance_name>dev245395</instance_name>
+        <name>sys_security_acl_cbbb069083d712101ff9b8a6feaad31d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Allow write for records in x_1593179_reembo_0_refund, for users with role x_1593179_reembo_0.hr_solver.</description><local_or_existing>Local</local_or_existing><name>x_1593179_reembo_0_refund.*</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-20 18:51:53</sys_created_on><sys_id>cbbb069083d712101ff9b8a6feaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1593179_reembo_0_refund.*</sys_name><sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package><sys_policy/><sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope><sys_update_name>sys_security_acl_cbbb069083d712101ff9b8a6feaad31d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-20 18:51:53</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1348236473</payload_hash>
+        <record_name>x_1593179_reembo_0_refund.*</record_name>
+        <reverted_from/>
+        <source>58a70998835312101ff9b8a6feaad3b9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:51:54</sys_created_on>
+        <sys_id>53bbc2d083d712101ff9b8a6feaad356</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194850e9ab70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:51:54</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>47bbc2d0c1d71210a72163ef3ff19055</update_guid>
+        <update_guid_history>47bbc2d0c1d71210a72163ef3ff19055:1348236473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-20 18:52:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>b6c34bacf2b848149ba982793ae7b931</sys_id>
+        <sys_metadata>cbbb069083d712101ff9b8a6feaad31d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1593179_reembo_0_refund.*</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_parent display_value="x_1593179_reembo_0_refund">37794d1c835312101ff9b8a6feaad313</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_scope_delete display_value="">1f291d9502f04a8db370818a530e4069</sys_scope_delete>
+        <sys_update_name>sys_security_acl_cbbb069083d712101ff9b8a6feaad31d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_cbbb069083d712101ff9b8a6feaad31d">53bbc2d083d712101ff9b8a6feaad356</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-20 18:52:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
