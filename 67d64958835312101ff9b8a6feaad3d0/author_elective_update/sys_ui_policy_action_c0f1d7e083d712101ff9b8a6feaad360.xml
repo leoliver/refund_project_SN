@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>dolar_value</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 18:37:05</sys_created_on>
+        <sys_id>c0f1d7e083d712101ff9b8a6feaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dolar_value</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c0f1d7e083d712101ff9b8a6feaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:37:05</sys_updated_on>
+        <table>x_1593179_reembo_0_refund</table>
+        <ui_policy display_value="Readonly fields when paid">b5511fa083d712101ff9b8a6feaad3b7</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=c0f1d7e083d712101ff9b8a6feaad360"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</application>
+        <file_path/>
+        <instance_id>a410952d1b85c2147d9d2f8dee4bcbd8</instance_id>
+        <instance_name>dev245395</instance_name>
+        <name>sys_ui_policy_action_c0f1d7e083d712101ff9b8a6feaad360</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>dolar_value</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-21 18:37:05</sys_created_on><sys_id>c0f1d7e083d712101ff9b8a6feaad360</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dolar_value</sys_name><sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package><sys_policy/><sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope><sys_update_name>sys_ui_policy_action_c0f1d7e083d712101ff9b8a6feaad360</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-21 18:37:05</sys_updated_on><table>x_1593179_reembo_0_refund</table><ui_policy display_value="Readonly fields when paid">b5511fa083d712101ff9b8a6feaad3b7</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=c0f1d7e083d712101ff9b8a6feaad360"/></record_update>]]></payload>
+        <payload_hash>-85206673</payload_hash>
+        <record_name>dolar_value</record_name>
+        <reverted_from/>
+        <source>73176694835b12101ff9b8a6feaad341</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 18:37:05</sys_created_on>
+        <sys_id>4cf1d7e083d712101ff9b8a6feaad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1948a2766280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 18:37:05</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>40f1d7e055d71210a9e265daeaa81c62</update_guid>
+        <update_guid_history>40f1d7e055d71210a9e265daeaa81c62:-85206673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-22 19:04:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>4649f5e4605c44e0ab0f10ae60534640</sys_id>
+        <sys_metadata>c0f1d7e083d712101ff9b8a6feaad360</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dolar_value</sys_name>
+        <sys_package display_value="Reembolso" source="x_1593179_reembo_0">67d64958835312101ff9b8a6feaad3d0</sys_package>
+        <sys_parent display_value="Readonly fields when paid or reproved">b5511fa083d712101ff9b8a6feaad3b7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">67d64958835312101ff9b8a6feaad3d0</sys_scope>
+        <sys_scope_delete display_value="">1f291d9502f04a8db370818a530e4069</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_c0f1d7e083d712101ff9b8a6feaad360</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_c0f1d7e083d712101ff9b8a6feaad360">4cf1d7e083d712101ff9b8a6feaad362</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-22 19:04:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
